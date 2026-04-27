@@ -1,0 +1,6 @@
+/* components/atoms/DateText/DateText.module.css */
+.date {
+  font-size: 12px;
+  color: #999999;
+  font-family: 'Segoe UI', sans-serif;
+}

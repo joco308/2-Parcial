@@ -1,0 +1,6 @@
+/* components/atoms/MetaLabel/MetaLabel.module.css */
+.label {
+  font-size: 12px;
+  color: #999999;
+  font-family: 'Segoe UI', sans-serif;
+}

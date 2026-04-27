@@ -1,0 +1,9 @@
+/* components/atoms/CardTag/CardTag.module.css */
+.tag {
+  font-size: 13px;
+  font-weight: 600;
+  color: #ffffff;
+  letter-spacing: 0.5px;
+  font-family: 'Segoe UI', sans-serif;
+  white-space: nowrap;
+}

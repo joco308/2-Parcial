@@ -1,0 +1,18 @@
+/* components/molecules/CardHeader/CardHeader.module.css */
+.header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 14px;
+  background-color: #e05c5c;
+  border-radius: 8px 8px 0 0;
+}
+
+.title {
+  flex: 1;
+  font-size: 15px;
+  font-weight: 700;
+  color: #ffffff;
+  font-family: 'Segoe UI', sans-serif;
+  letter-spacing: 0.2px;
+}

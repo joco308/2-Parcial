@@ -1,0 +1,15 @@
+/* components/atoms/BadgeNumber/BadgeNumber.module.css */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  color: #e05c5c;
+  font-size: 13px;
+  font-weight: 700;
+  flex-shrink: 0;
+  font-family: 'Segoe UI', sans-serif;
+}

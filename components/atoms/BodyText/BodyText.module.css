@@ -1,0 +1,8 @@
+/* components/atoms/BodyText/BodyText.module.css */
+.text {
+  margin: 0;
+  font-size: 14px;
+  color: #444444;
+  line-height: 1.5;
+  font-family: 'Segoe UI', sans-serif;
+}
