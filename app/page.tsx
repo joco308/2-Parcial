@@ -4,7 +4,7 @@ import { AgendaCard } from '@/components/organisms/AgendaCard/AgendaCard';
 
 export default function Home() {
   return (
-    <main style={{ padding: '40px', background: '#f4f4f4', minHeight: '100vh' }}>
+    <main style={{ padding: '40px', background: '#444343', minHeight: '100vh' }}>
       <AgendaCard
         badgeNumber={1}
         title="Agenda/Topic"
